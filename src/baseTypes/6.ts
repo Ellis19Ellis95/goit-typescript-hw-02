@@ -2,7 +2,7 @@
   Як ви вкажете типи для аргументів і значень цих функцій, що повертаються?
 */
 
-function showMessage(message) {
+/*function showMessage(message) {
   console.log(message);
 }
 
@@ -15,7 +15,7 @@ function customError() {
 }
 
 export {};
-
+*/
 
 
 

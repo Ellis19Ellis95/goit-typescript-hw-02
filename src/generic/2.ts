@@ -4,7 +4,7 @@
   Функція compare повинна повертати AllType.
 */
 
-type AllType = {
+/*type AllType = {
   name: string;
   position: number;
   color: string;
@@ -21,7 +21,7 @@ function compare (top, bottom): AllType {
 }
 
 export {};
-
+*/
 
 
 

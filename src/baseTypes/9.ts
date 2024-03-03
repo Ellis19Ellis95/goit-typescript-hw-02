@@ -2,7 +2,7 @@
   Створіть новий тип даних, який підходить для цих двох об'єктів.
 */
 
-const page1 = {
+/*const page1 = {
   title: 'The awesome page',
   likes: 100,
   accounts: ['Max', 'Anton', 'Nikita'],
@@ -21,7 +21,7 @@ const page2 = {
 }
 
 export {};
-
+*/
 
 
 

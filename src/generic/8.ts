@@ -3,7 +3,7 @@
   Ви хочете створити новий тип Params, який включає всі поля з Form, крім errors.
 */
 
-type Errors = {
+/*type Errors = {
   email?: string[];
   firstName?: string[];
   lastName?: string[];
@@ -22,7 +22,7 @@ type Form = {
 type Params = Form;
 
 export {};
-
+*/
 
 
 

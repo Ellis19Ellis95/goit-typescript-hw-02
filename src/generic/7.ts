@@ -3,7 +3,7 @@
   Ви хочете створити об'єкт RoleDescription, який зіставлятиме кожну роль користувача з її описом.
 */
 
-export enum UserRole {
+/*export enum UserRole {
   admin = 'admin',
   editor = 'editor',
   guest = 'guest',
@@ -17,7 +17,7 @@ const RoleDescription = {
 };
 
 export {};
-
+*/
 
 
 
