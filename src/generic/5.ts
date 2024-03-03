@@ -9,3 +9,13 @@ interface KeyValuePair {
 }
 
 export {};
+
+
+
+
+interface KeyValuePair<K, V> {
+	key: K;
+	value: V;
+}
+
+export {};

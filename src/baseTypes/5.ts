@@ -5,3 +5,8 @@
 
 let union;
 let literal;
+
+
+
+let union: string | number;
+let literal: "enable" | "disable";

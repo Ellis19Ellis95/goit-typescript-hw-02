@@ -6,3 +6,8 @@
 const myGender;
 
 export {};
+
+type Gender = "male" | "female";
+
+let myGender: Gender;
+export {};
